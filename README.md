@@ -10,7 +10,6 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
 public class Nimisha {
